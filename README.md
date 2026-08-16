@@ -1,5 +1,7 @@
 # Experts in CMT: CMT Gene Browser Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970233.svg)](https://doi.org/10.5281/zenodo.21970233)
+
 A curated, gene-resolved dataset of the genes and subtypes associated with Charcot-Marie-Tooth disease (CMT) and related inherited neuropathies. It is the data behind the [CMT Gene Browser](https://expertsincmt.org/genetics/cmt-gene-browser/) at [expertsincmt.org](https://expertsincmt.org).
 
 **Version 1.0.3** &middot; Build date 2026-08-16 &middot; Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -34,7 +36,10 @@ This dataset references and links to content owned by third parties (gene nomenc
 
 ## How to cite
 
-> Experts in CMT. (2026). *Experts in CMT: CMT Gene Browser* [Data set]. Version 1.0.3. Experts in CMT. https://expertsincmt.org. Licensed under CC BY 4.0.
+> Experts in CMT. (2026). *Experts in CMT: CMT Gene Browser* (Version 1.0.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21970234
+
+- **Concept DOI** (always resolves to the latest version): [10.5281/zenodo.21970233](https://doi.org/10.5281/zenodo.21970233)
+- **Version DOI** (this release, 1.0.3): [10.5281/zenodo.21970234](https://doi.org/10.5281/zenodo.21970234)
 
 ## Sources
 
