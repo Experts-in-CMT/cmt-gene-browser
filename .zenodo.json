@@ -1,0 +1,32 @@
+{
+  "upload_type": "dataset",
+  "title": "Experts in CMT: CMT Gene Browser",
+  "version": "1.0.3",
+  "publication_date": "2026-08-16",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Experts in CMT" }
+  ],
+  "description": "A curated, gene-resolved dataset of the genes and subtypes associated with Charcot-Marie-Tooth disease (CMT) and related inherited neuropathies. Version 1.0.3 contains 159 genes and 188 subtype rows, including 19 candidate gene associations, with curated nomenclature, classifications, ClinGen gene-disease validity (CMT GCEP) and dosage sensitivity, Genomics England PanelApp 846 ratings, and links to authoritative external resources. It is the dataset behind the CMT Gene Browser at https://expertsincmt.org. The Experts in CMT curation is licensed CC BY 4.0; referenced third-party content remains under its respective terms (see LICENSE.txt).",
+  "keywords": [
+    "Charcot-Marie-Tooth disease",
+    "CMT",
+    "inherited neuropathy",
+    "peripheral neuropathy",
+    "genetics",
+    "gene-disease association",
+    "rare disease",
+    "ClinGen",
+    "PanelApp",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://expertsincmt.org/genetics/cmt-gene-browser/",
+      "relation": "isDocumentedBy",
+      "scheme": "url",
+      "resource_type": "other"
+    }
+  ]
+}
