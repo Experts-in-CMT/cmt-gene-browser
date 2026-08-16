@@ -20,8 +20,12 @@ available at https://creativecommons.org/licenses/by/4.0/.
 
 ATTRIBUTION
 
+When citing this dataset, please use:
+
 Experts in CMT. (2026). Experts in CMT CMT Gene Browser [Data set]. Version 1.0.3.
-Experts in CMT. https://expertsincmt.org. Licensed under CC BY 4.0.
+Zenodo. https://doi.org/10.5281/zenodo.21970233. Licensed under CC BY 4.0.
+
+The DOI above is the concept DOI, which always resolves to the latest version.
 
 SCOPE OF LICENSE
 
